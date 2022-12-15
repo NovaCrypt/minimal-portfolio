@@ -14,11 +14,11 @@ function Intro() {
                 All graphical content is created the same way, from inspiration and planning,
                 all the way to finalizing the content with artistic touches. I publish
                 that content on my Patreon page{' '}
-                <a href=""
+                <a href="https://www.patreon.com/NovaAI"
                 target="_blank"
                 className="text-cyan-600 hover:underline underline-offset-2 decoration-2 decoration-red-600"
                 rel="noreferrer noopener"
-                >[disabled]
+                >
                 NovaCrypt
                 </a>.
             </p>

@@ -15,6 +15,6 @@ export default [
         title: 'Patreon',
         imgURL: '',
         stack: ['Graphic Design', 'AI Generation'],
-        link: ''
+        link: 'https://www.patreon.com/NovaAI'
     }
 ]
