@@ -13,7 +13,7 @@ export default [
     },
     {
         title: 'Patreon',
-        imgURL: '',
+        imgURL: '/assets/Screenshot 2022-12-15 155919.png',
         stack: ['Graphic Design', 'AI Generation'],
         link: 'https://www.patreon.com/NovaAI'
     }
