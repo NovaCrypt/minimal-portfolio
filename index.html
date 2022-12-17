@@ -8,7 +8,21 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
-    <script src="https://www.google.com/recaptcha/api.js?render=reCAPTCHA_site_key"></script>
+    <!-- <script src="https://www.google.com/recaptcha/api.js?render=reCAPTCHA_site_key"></script> -->
+    <!--
+      Place the below into the contact form code in 'src/components/contact.jsx' when ready...
+
+      <input type="hidden" id="captchaResponse" name="g-recaptcha-response">
+          <script>
+              grecaptcha.ready(function() {
+                  grecaptcha.execute('6Lc_DYgjAAAAANkZc3-YD6Ms9tX51umUEb50rKzW', {action: 'homepage'})
+                  .then(function(token) {
+                      document.getElementById('captchaResponse').value = token;
+                  })
+              });
+          </script>
+      </input>
+    -->
   </head>
   <body>
     <div id="root"></div>
