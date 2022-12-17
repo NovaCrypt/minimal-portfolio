@@ -2,7 +2,12 @@ import React from "react";
 
 function Footer() {
     return (
-        <div></div>
+        <div className="py-5 text-center">
+            {/* Social Icons */}
+            <p className="text-sm mt-2 opacity-50">
+                &copy; {new Date().getFullYear()} Oliver Hunter. All rights reserved.
+            </p>
+        </div>
     )
 }
 
