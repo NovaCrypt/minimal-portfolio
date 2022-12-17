@@ -1,15 +1,15 @@
 export default [
     {
         title: 'GitHub Profile',
-        imgURL: '',
+        imgURL: '/assets/Screenshot 2022-12-17 111303.png',
         stack: ['Markdown', 'GitHub'],
         link: 'https://www.github.com/NovaCrypt'
     },
     {
         title: 'Minimal Portfolio',
-        imgURL: '',
+        imgURL: '/assets/Screenshot 2022-12-17 104328.png',
         stack: ['Vite', 'Tailwind', 'ReactJS'],
-        link: ''
+        link: 'https://www.github.com/NovaCrypt/minimal-'
     },
     {
         title: 'Patreon',
