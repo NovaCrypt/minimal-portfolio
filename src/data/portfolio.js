@@ -9,7 +9,7 @@ export default [
         title: 'Minimal Portfolio',
         imgURL: 'assets/Screenshot 2022-12-17 104328.png',
         stack: ['Vite', 'Tailwind', 'ReactJS'],
-        link: 'https://www.github.com/NovaCrypt/minimal-'
+        link: 'https://www.github.com/NovaCrypt/minimal-portfolio'
     },
     {
         title: 'Patreon',
