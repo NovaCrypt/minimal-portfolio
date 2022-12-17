@@ -8,7 +8,7 @@ function Contact() {
                     <input type="hidden" id="captchaResponse" name="g-recaptcha-response">
                         <script>
                             grecaptcha.ready(function() {
-                                grecaptcha.execute('YOUR_SITE_KEY', {action: 'homepage'})
+                                grecaptcha.execute('6Lc_DYgjAAAAANkZc3-YD6Ms9tX51umUEb50rKzW', {action: 'homepage'})
                                 .then(function(token) {
                                     document.getElementById('captchaResponse').value = token;
                                 })
